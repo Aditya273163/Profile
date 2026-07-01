@@ -86,7 +86,7 @@ A hands-on internship project applying core software + ML skills across four tas
 </table>
 
 <p align="center">
-  <a href="https://github.com/your-username/ML-Internship-EliteTechIntern">
+  <a href="https://github.com/Aditya273163/ML-Internship-EliteTechIntern">
     <img src="https://img.shields.io/badge/View%20Full%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -96,11 +96,11 @@ A hands-on internship project applying core software + ML skills across four tas
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/your-username/ML-Internship-EliteTechIntern">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ML-Internship-EliteTechIntern&theme=default"/>
+  <a href="https://github.com/Aditya273163/ML-Internship-EliteTechIntern">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/Aditya273163&repo=ML-Internship-EliteTechIntern&theme=default"/>
   </a>
-  <a href="https://github.com/your-username/repo-name-2">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name-2&theme=default"/>
+  <a href="https://github.com/Aditya273163/repo-name-2">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/Aditya273163&repo=repo-name-2&theme=default"/>
   </a>
 </p>
 
@@ -109,12 +109,12 @@ A hands-on internship project applying core software + ML skills across four tas
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?Aditya273163&show_icons=true&theme=default&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/Aditya273163&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?Aditya273163&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
@@ -126,5 +126,5 @@ up for collaborating on interesting projects. Reach out via [LinkedIn](https://w
 or [email](mailto:your.email@example.com) — happy to chat!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/Aditya273163&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views"/>
 </p>
