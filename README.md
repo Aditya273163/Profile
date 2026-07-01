@@ -122,8 +122,8 @@ A hands-on internship project applying core software + ML skills across four tas
 ### 🤝 Let's Connect
 
 I'm actively looking for internship and entry-level software developer opportunities, and I'm always
-up for collaborating on interesting projects. Reach out via [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-or [email](mailto:your.email@example.com) — happy to chat!
+up for collaborating on interesting projects. Reach out via [LinkedIn](https://www.linkedin.com/in/aditya-singh-964458299/)
+or [email](mailto:as3330981@gmail.com) — happy to chat!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/Aditya273163&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views"/>
